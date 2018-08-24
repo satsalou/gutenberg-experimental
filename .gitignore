@@ -1,5 +1,12 @@
 /*
-/*/
-!/wp-content/plugins/gutenberg-boilerplate-block/
-!/wp-content/themes/gutenberg-starter-theme-master/
+!/wp-content
+/wp-content/*
+!/wp-content/plugins
+/wp-content/plugins/*
+!/wp-content/plugins/gutenberg-boilerplate-block
+!/wp-content/themes
+/wp-content/themes/*
+!/wp-content/themes/gutenberg-starter-theme-master
 !/README.md
+*.DS_Store
+*.gitignore
